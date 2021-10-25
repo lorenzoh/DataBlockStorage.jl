@@ -1,0 +1,7 @@
+name = "DataBlockStorage"
+uuid = "b4b4e068-9247-4013-8224-31977c05bb26"
+authors = ["lorenzoh <lorenz.ohly@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
